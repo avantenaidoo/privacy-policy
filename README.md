@@ -1,7 +1,5 @@
 # privacy-policy
 
-# Privacy Policy
-
 This application uses Facebook Login and Instagram APIs to authenticate users and access Instagram Business data with user permission.
 
 ## Data Usage
